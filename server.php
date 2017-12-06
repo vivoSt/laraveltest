@@ -15,5 +15,5 @@ if ($uri !== '/' and file_exists($requested))
 {
 	return false;
 }
-//-----
+//dasda
 require_once $paths['public'].'/index.php';
